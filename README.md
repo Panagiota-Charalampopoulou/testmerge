@@ -1,4 +1,4 @@
-# testmerge lov=cal change1
+# testmerge local change1
 # testmerge
 GitHub change 
 merge 
